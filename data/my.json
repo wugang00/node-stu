@@ -1,0 +1,36 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "order": [
+    {
+      "id": 1,
+      "order_icon": "http://127.0.0.1:3100/icon/a58.png",
+      "order_text": "未付款"
+    },
+    {
+      "id": 2,
+      "order_icon": "http://127.0.0.1:3100/icon/a59.png",
+      "order_text": "已付款"
+    },
+    {
+      "id": 3,
+      "order_icon": "http://127.0.0.1:3100/icon/a60.png",
+      "order_text": "已完成"
+    }
+  ],
+  "list1":[
+    {"id":1,"list_icon":"http://127.0.0.1:3100/icon/a67.png","list_txt":"我的优惠券"},
+    {"id":2,"list_icon":"http://127.0.0.1:3100/icon/a57.png","list_txt":"我的收藏"},
+    {"id":3,"list_icon":"http://127.0.0.1:3100/icon/a40.png","list_txt":"我的消息"}
+  ],
+  "list2":[
+    {"id":1,"list_icon":"http://127.0.0.1:3100/icon/a68.png","list_txt":"联系客服"}
+  ],
+  "list3":[
+    {"id":1,"list_icon":"http://127.0.0.1:3100/icon/a65.png","list_txt":"收货地址"},
+    {"id":2,"list_icon":"http://127.0.0.1:3100/icon/a64.png","list_txt":"问题反馈"},
+    {"id":3,"list_icon":"http://127.0.0.1:3100/icon/a63.png","list_txt":"账号安全"},
+    {"id":4,"list_icon":"http://127.0.0.1:3100/icon/a61.png","list_txt":"通用设置"},
+    {"id":5,"list_icon":"http://127.0.0.1:3100/icon/a77.png","list_txt":"关于安居"}
+  ]
+}

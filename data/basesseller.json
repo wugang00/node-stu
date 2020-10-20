@@ -1,0 +1,42 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "nordic": [
+    {
+      "id":1,
+      "main_img":"http://127.0.0.1:3100/images/a26.png",
+      "nor_title":"北欧时光",
+      "nor_text":"欧洲原创设计者，融合不同年代的时尚经典传世造型，国内一线大厂，精选顶级原材料，精湛手工艺制作。",
+      "nor_one": "http://127.0.0.1:3100/images/a22.png",
+      "nor_two": "http://127.0.0.1:3100/images/a23.png",
+      "nor_three": "http://127.0.0.1:3100/images/a24.png"
+    },
+    {
+      "id":2,
+      "main_img":"http://127.0.0.1:3100/images/a25.png",
+      "nor_title":"悦木",
+      "nor_text":"经典传世之作，顶级原材料与先进工艺的结合超越了时尚的轮回，走进经典，陶醉于美好设计的智慧生活。",
+      "nor_one": "http://127.0.0.1:3100/images/a27.png",
+      "nor_two": "http://127.0.0.1:3100/images/a28.png",
+      "nor_three": "http://127.0.0.1:3100/images/a29.png"
+    },
+    {
+      "id":3,
+      "main_img":"http://127.0.0.1:3100/images/a30.png",
+      "nor_title":"物也",
+      "nor_text":"丹麦原创设计，俏江南。外婆家等知名连锁企业家具供应商，优选美国白橡木，纯实木打造深受年轻一代追捧的精致北欧风。",
+      "nor_one": "http://127.0.0.1:3100/images/a31.png",
+      "nor_two": "http://127.0.0.1:3100/images/a32.png",
+      "nor_three": "http://127.0.0.1:3100/images/a33.png"
+    },
+    {
+      "id":4,
+      "main_img":"http://127.0.0.1:3100/images/a34.png",
+      "nor_title":"高阁",
+      "nor_text":"新加坡著名家具制造商，东南亚原装进口，国际用材工艺标准，源于国际时尚前沿的设计，致力于打造舒适而又摩登的家居生活。",
+      "nor_one": "http://127.0.0.1:3100/images/a35.png",
+      "nor_two": "http://127.0.0.1:3100/images/a36.png",
+      "nor_three": "http://127.0.0.1:3100/images/a37.png"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "data": [
+    {
+      "id":1,
+      "content": "品牌制造商直供"
+    },
+    {
+      "id":1,
+      "content": "7天无理由退换"
+    },
+    {
+      "id":1,
+      "content": "线下真实体验"
+    }
+  ],
+
+  "banner":[
+    {
+      "id":1,
+      "images": "http://127.0.0.1:3100/images/banner.png"
+    },
+    {
+      "id":2,
+      "images": "http://127.0.0.1:3100/images/banner.png"
+    }
+  ],
+  "collocation": [
+    {
+      "col_img":"http://127.0.0.1:3100/images/6.png",
+      "col_title":"实木家具展示图",
+      "col":[
+        {
+          "id": 1,
+          "title": "实木储物茶几",
+          "product_img": "http://127.0.0.1:3100/images/aa3.png",
+          "price": 1472
+        },
+        {
+          "id": 2,
+          "title": "实木电视柜",
+          "product_img": "http://127.0.0.1:3100/images/aa4.png",
+          "price": 1760
+        },
+        {
+          "id": 3,
+          "title": "实木储物茶几",
+          "product_img": "http://127.0.0.1:3100/images/aa5.png",
+          "price": 1760
+        }
+      ]
+    },
+    {
+      "col_img":"http://127.0.0.1:3100/images/6.png",
+      "col_title":"白橡木家具展示图",
+      "col":[
+        {
+          "id": 1,
+          "title": "白橡木实木床",
+          "product_img": "http://127.0.0.1:3100/images/7.png",
+          "price": 1778
+        },
+        {
+          "id": 2,
+          "title": "白橡木梳妆台",
+          "product_img": "http://127.0.0.1:3100/images/8.png",
+          "price": 1800
+        },
+        {
+          "id": 3,
+          "title": "白橡木三门衣柜",
+          "product_img": "http://127.0.0.1:3100/images/9.png",
+          "price": 5480
+        }
+      ]
+    }
+    
+  ],
+  "statenew":  { 
+    "aa":"本期新品",
+    "bb": [
+      {
+        "id": 1,
+        "title": "藤椅沙发",
+        "introduce": "户外藤沙发组合阳台休闲沙发客厅藤条沙发椅藤编家具",
+        "product_img": "http://127.0.0.1:3100/images/1_14.png",
+        "price": 2590,
+        "price_low": 2590,
+        "price_high": 5570
+      },
+      {
+        "id": 1,
+        "title": "贵妃椅",
+        "introduce": "简约现代单人懒人布艺实木贵妃椅",
+        "product_img": "http://127.0.0.1:3100/images/1_09.png",
+        "price": 980,
+        "price_low": 980,
+        "price_high": 1010
+      },
+      {
+        "id": 1,
+        "title": "橡木床",
+        "introduce": "美式乡村家具高档别墅拉扣软靠1.8m双人床橡木实木床",
+        "product_img": "http://127.0.0.1:3100/images/1_11.png",
+        "price": 2180,
+        "price_low": 2180,
+        "price_high": 2200
+      }
+    ]
+  },
+  "recommend": {
+    "aa":"热门推荐",
+    "bb": [
+      {
+        "id": 1,
+        "rec_title": "沙发",
+        "tle_": "现货",
+        "rec_introduce": "松木实木框架乳胶坐垫",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian2.png",
+        "rec_price": 1188,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 2,
+        "rec_title": "宜家茶几",
+        "tle_": "现货",
+        "rec_introduce": "北欧橡木小工匠简约现代实木茶几",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian3.png",
+        "rec_price": 1188,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 3,
+        "rec_title": "隔板",
+        "tle_": "现货",
+        "rec_introduce": "松木实木",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian4.png",
+        "rec_price": 520,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 4,
+        "rec_title": "书柜",
+        "tle_": "现货",
+        "rec_introduce": "可定制简约现代书柜置物架书架",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian5.png",
+        "rec_price": 2000,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 5,
+        "rec_title": "沙发凳",
+        "tle_": "现货",
+        "rec_introduce": "休息凳乳胶坐垫",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian7.png",
+        "rec_price": 500,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 6,
+        "rec_title": "背靠椅",
+        "tle_": "现货",
+        "rec_introduce": "桦木绒质休闲单人椅",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian8.png",
+        "rec_price": 980,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 7,
+        "rec_title": "电视机柜",
+        "tle_": "现货",
+        "rec_introduce": "实木工艺",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian9.png",
+        "rec_price": 2900,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      },
+      {
+        "id": 8,
+        "rec_title": "客厅沙发",
+        "tle_": "现货",
+        "rec_introduce": "黑胡桃实木老榆木简约沙发",
+        "rec_img":"http://127.0.0.1:3100/images/tuijian10.png",
+        "rec_price": 4560,
+        "pic_a": "http://127.0.0.1:3100/images/tuijian1.png"
+      }
+    ]
+    }
+  }

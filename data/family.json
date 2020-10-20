@@ -1,0 +1,121 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "title": "生活家",
+  "hotlabel": [
+    {
+      "hot_title": "热门标签 Hot tab",
+      "hot_con": [
+        {
+          "id": 1,
+          "hot_img": "http://127.0.0.1:3100/images/3_08.png",
+          "img_title": "整屋家具"
+        },
+        {
+          "id": 2,
+          "hot_img": "http://127.0.0.1:3100/images/3_03.png",
+          "img_title": "文艺范"
+        },
+        {
+          "id": 3,
+          "hot_img": "http://127.0.0.1:3100/images/3_05.png",
+          "img_title": "甲醛检测标准"
+        }
+      ]
+    }
+  ],
+  "chart": 
+  [
+    {
+      "chart_title": "今日美图 Today's Meitu",
+      "chartimg": [
+        {
+          "id": 1,
+          "chart_img": "http://127.0.0.1:3100/images/3_13.png"
+        },
+        {
+          "id": 2,
+          "chart_img": "http://127.0.0.1:3100/images/3_15.png"
+        },
+        {
+          "id": 3,
+          "chart_img": "http://127.0.0.1:3100/images/3_17.png"
+        },
+        {
+          "id": 4,
+          "chart_img": "http://127.0.0.1:3100/images/3_22.png"
+        },
+        {
+          "id": 5,
+          "chart_img": "http://127.0.0.1:3100/images/3_23.png"
+        },
+        {
+          "id": 6,
+          "chart_img": "http://127.0.0.1:3100/images/3_25.png"
+        }
+      ]
+    }
+  ],
+  "city":[
+    {
+      "city_title":"城市"
+    }
+  ],
+  "circle":[
+    {
+      "circle_title":"安居生活圈 Living in a secure life",
+      "circle_con":[
+        {
+          "id":1,
+          "cre_portrait":"http://127.0.0.1:3100/images/3_50.png",
+          "cre_name":"左音",
+          "shows_img":"http://127.0.0.1:3100/images/3_02.png",
+          "shows_text":"家中的美丽源于家具的选择，给人的感觉也会大有不同。",
+          "shows_coment":62,
+          "shows_colle":76,
+          "shows_likes":90
+        },
+        {
+          "id":2,
+          "cre_portrait":"http://127.0.0.1:3100/images/3_50.png",
+          "cre_name":"野客",
+          "shows_img":"http://127.0.0.1:3100/images/3_04.png",
+          "shows_text":"好的家居风格是由室内搭配去营造的，每一个装饰品都发挥着不一样的气息。",
+          "shows_coment":84,
+          "shows_colle":96,
+          "shows_likes":103
+        },
+        {
+          "id":3,
+          "cre_portrait":"http://127.0.0.1:3100/images/3_50.png",
+          "cre_name":"违心",
+          "shows_img":"http://127.0.0.1:3100/images/3_07.png",
+          "shows_text":"家居也并不是空间越大越好，需要合理搭配好各个位置的区域才可以达到小而美的感觉。",
+          "shows_coment":102,
+          "shows_colle":122,
+          "shows_likes":180
+        },
+        {
+          "id":4,
+          "cre_portrait":"http://127.0.0.1:3100/images/3_50.png",
+          "cre_name":"时常饿",
+          "shows_img":"http://127.0.0.1:3100/images/3_09.png",
+          "shows_text":"室内不同风格的设计，能与家具充分产生不一样的家居感受，更具特色。",
+          "shows_coment":83,
+          "shows_colle":117,
+          "shows_likes":158
+        },
+        {
+          "id":5,
+          "cre_portrait":"http://127.0.0.1:3100/images/3_50.png",
+          "cre_name":"千夜",
+          "shows_img":"http://127.0.0.1:3100/images/3_11.png",
+          "shows_text":"安装风格的设计，可以使家呈现不同的氛围，风格的选定也是最重要的一点。",
+          "shows_coment":252,
+          "shows_colle":157,
+          "shows_likes":180
+        }
+      ]
+    }
+  ]
+}

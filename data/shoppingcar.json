@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "userId": "admin-1",
+      "status": 0,
+      "list": [
+        {
+          "id": "c-001",
+          "name": "床",
+          "price": 1178,
+          "count": 13
+        }
+      ]
+    },
+    {
+      "userId": "admin-1",
+      "status": 0,
+      "list": [
+        {
+          "id": "c-002",
+          "name": "床头柜",
+          "price": 388,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "userId": "admin-1",
+      "status": 0,
+      "list": [
+        {
+          "id": "c-005",
+          "name": "床头柜",
+          "price": 388,
+          "count": 6
+        },
+        {
+          "id": "c-003",
+          "name": "床头柜",
+          "price": 388,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "userId": "admin-1",
+      "status": 0,
+      "list": [
+        {
+          "id": "c-006",
+          "name": "床头柜",
+          "price": 388,
+          "count": 3
+        }
+      ]
+    }
+  ]
+}

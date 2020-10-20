@@ -1,0 +1,98 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "wares": "沙发",
+  "wares_ban":[
+    {"id":1,"wares_img":"http://127.0.0.1:3100/images/a30.png"},
+    {"id":1,"wares_img":"http://127.0.0.1:3100/images/a26.png"}
+  ],
+  "guarantee":[
+    {"id":1,"gate":"7天无理由退换"},
+    {"id":2,"gate":"三年质保终身维护"},
+    {"id":3,"gate":"保价90天"}
+  ],
+  "commodity":{
+    "name":"新主题布艺沙发",
+    "desc":"极简经典设计 天然亲肤质地",
+    "speci":"多规格",
+    "price_s":1350,
+    "price_gh":7580,
+    "store_price":"卖场价： ￥2709 - 15179",
+    "label":"Live House",
+    "activity":[
+      {"id":1,"act":"平台满减","attribute":"全场商品满5000减2000,满8000减3500"},
+      {"id":2,"act":"店铺满减","attribute":"全场商品满5000减2000,满8000减3500"}
+    ]
+  },
+  "evaluate":{
+    "title":"用户评价 (10)",
+    "party":[
+      {
+        "id":1,
+        "party_name":"橘子柠檬",
+        "portrait":"http://127.0.0.1:3100/images/sx4.png",
+        "party_commetn":"收到货后真是惊艳啊，这种品质的沙发在实体店至少1万左右，真是捡到宝了哈哈！上门的安装师傅都说沙发腿和底层布料都说高档沙发才有的！",
+        "specs":"3150*2180*680  (L形入座右贵妃)；棉麻混纺；米灰色",
+        "part_img":[
+          {
+            "id":1,
+            "img":"http://127.0.0.1:3100/images/sx1.png"
+          },
+          {
+            "id":2,
+            "img":"http://127.0.0.1:3100/images/sx2.png"
+          }
+        ]
+      }
+    ]
+  },
+  "match":{
+    "title":"生活家搭配",
+    "mth":[
+      {"id":1,
+        "mth_name":"橘子柠檬",
+        "portrait":"http://127.0.0.1:3100/images/sx4.png",
+        "mth_img":"http://127.0.0.1:3100/images/sx3.png",
+        "mth_city":"福州市·三盛国际公园",
+        "Mth_watch":204
+      }
+    ]
+  },
+  "recommend":{
+    "title":"相似推荐",
+    "mend":[
+      {
+        "id":1,
+        "mend_img":"http://127.0.0.1:3100/images/sx5.png",
+        "mend_name":"玛菲沙发",
+        "mend_desc":"天然棉麻布料 鹅绒填充",
+        "mend_price":1350,
+        "mend_prigh":7580
+      },
+      {
+        "id":2,
+        "mend_img":"http://127.0.0.1:3100/images/sx6.png",
+        "mend_name":"贝洛布艺沙发",
+        "mend_desc":"鹅绒填充 天然棉麻布料",
+        "mend_price":1150,
+        "mend_prigh":6810
+      },
+      {
+        "id":3,
+        "mend_img":"http://127.0.0.1:3100/images/sx7.png",
+        "mend_name":"比邻沙发",
+        "mend_desc":"意大利经典设计 鹅绒填充",
+        "mend_price":4260,
+        "mend_prigh":20950
+      },
+      {
+        "id":4,
+        "mend_img":"http://127.0.0.1:3100/images/sx8.png",
+        "mend_name":"艾玛沙发",
+        "mend_desc":"书架式扶手 长度随意组合",
+        "mend_price":1180,
+        "mend_prigh":12920
+      }
+    ]
+  }
+}

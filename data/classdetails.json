@@ -1,0 +1,78 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "detacon": [
+    {
+      "id": 1,
+      "deta_img": "http://127.0.0.1:3100/images/xf1.png",
+      "deta_name": "新主题布艺沙发",
+      "deta_desc": "极简经典设计 天然亲肤质地",
+      "deta_price": 1350,
+      "deta_prigh": 7580,
+      "deta_tips":"多规格,多颜色"
+    },
+    {
+      "id": 2,
+      "deta_img": "http://127.0.0.1:3100/images/xf2.png",
+      "deta_name": "博得沙发",
+      "deta_desc": "意大利全青皮 纯鹅绒填充",
+      "deta_price": 4320,
+      "deta_prigh": 37399,
+      "deta_tips":"多规格,多颜色,多材质"
+    },
+    {
+      "id": 3,
+      "deta_img": "http://127.0.0.1:3100/images/xf3.png",
+      "deta_name": "桃源沙发",
+      "deta_desc": "天然棉麻混纺 拆洗设计",
+      "deta_price": 2790,
+      "deta_prigh": 22280,
+      "deta_tips":"多规格,多颜色,多材质"
+    },
+    {
+      "id": 4,
+      "deta_img": "http://127.0.0.1:3100/images/xf4.png",
+      "deta_name": "光阴沙发",
+      "deta_desc": "高级羊毛 亲肤舒适",
+      "deta_price": 3160,
+      "deta_prigh": 8140,
+      "deta_tips":"多规格,多颜色,多材质"
+    },
+    {
+      "id": 5,
+      "deta_img": "http://127.0.0.1:3100/images/xf5.png",
+      "deta_name": "若邻休闲椅",
+      "deta_desc": "环抱式设计",
+      "deta_price": 3620,
+      "deta_prigh": "",
+      "deta_tips":"多规格,多颜色,多材质"
+    },
+    {
+      "id": 6,
+      "deta_img": "http://127.0.0.1:3100/images/xf6.png",
+      "deta_name": "贝沙发",
+      "deta_desc": "松木框架 进口棉麻",
+      "deta_price": 860,
+      "deta_prigh": 8890,
+      "deta_tips":"多规格,多颜色,多材质"
+    },
+    {
+      "id": 7,
+      "deta_img": "http://127.0.0.1:3100/images/xf7.png",
+      "deta_name": "阿曼达沙发",
+      "deta_desc": "简美风格 时尚大气",
+      "deta_price": 4796,
+      "deta_prigh": "",
+      "deta_tips":"多规格,多颜色"
+    },
+    {
+      "id": 8,
+      "deta_img": "http://127.0.0.1:3100/images/xf8.png",
+      "deta_name": "伯爵沙发",
+      "deta_desc": "进口全青皮 鹅绒填充",
+      "deta_price": 3160,
+      "deta_prigh": 8140,
+      "deta_tips":"多规格,多颜色,多材质"
+    }
+  ]
+}

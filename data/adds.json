@@ -1,0 +1,98 @@
+{
+  "dity": [
+    {
+      "store": "兼美",
+      "status": "1",
+      "userId": "admin-1",
+      "st_check": false,
+      "shops": [
+        {
+          "id": 1,
+          "shop_img": "http://127.0.0.1:3100/images/4_03.png",
+          "shop_name": "林氏木业北欧家具套装组合 大小户型实木客厅现代沙发",
+          "shop_specs": "1500mm*2000mm 1800mm*2000mm",
+          "shop_price": 5320,
+          "nums": 1,
+          "ischeck": false
+        }
+      ]
+    },
+    {
+      "store": "玛蒂诗旗舰店",
+      "status": "1",
+      "userId": "admin-1",
+      "st_check": false,
+      "shops": [
+        {
+          "id": 1,
+          "shop_img": "http://127.0.0.1:3100/images/4_03.png",
+          "shop_name": "林氏木业北欧家具套装组合 大小户型实木客厅现代沙发",
+          "shop_specs": "1500mm*2000mm 1800mm*2000mm",
+          "shop_price": 1299,
+          "nums": 1,
+          "ischeck": false
+        },
+        {
+          "id": 2,
+          "shop_img": "http://127.0.0.1:3100/images/4_07.png",
+          "shop_name": "欧式沙发组合奢华实木沙发大型客厅家具",
+          "shop_specs": "1500mm*2000mm 1800mm*2000mm",
+          "shop_price": 16800,
+          "nums": 1,
+          "ischeck": false
+        }
+      ]
+    },
+    {
+      "store": "尼奥",
+      "status": "1",
+      "userId": "admin-1",
+      "st_check": false,
+      "shops": [
+        {
+          "id": 3,
+          "shop_img": "http://127.0.0.1:3100/images/4_11.png",
+          "shop_name": "艾米尼奥家具美式乡村小户型客厅三人布艺沙发组合",
+          "shop_specs": "1500mm*2000mm 1800mm*2000mm",
+          "shop_price": 1699,
+          "nums": 1,
+          "ischeck": false
+        }
+      ]
+    },
+    {
+      "store": "娜美官方旗舰店",
+      "status": "1",
+      "userId": "admin-1",
+      "st_check": false,
+      "shops": [
+        {
+          "id": 4,
+          "shop_img": "http://127.0.0.1:3100/images/4_03.png",
+          "shop_name": "林氏木业北欧家具套装组合 大小户型实木客厅现代沙发",
+          "shop_specs": "三人（咖啡色）",
+          "shop_price": 889,
+          "nums": 1,
+          "ischeck": false
+        }
+      ]
+    },
+    {
+      "store": "店铺001",
+      "status": "1",
+      "userId": "admin-1",
+      "st_check": false,
+      "shops": [
+        {
+          "id": "6",
+          "shop_img": "http://127.0.0.1:3100/images/4_03.png",
+          "shop_name": "林氏木业北欧家具套装组合 大小户型实木客厅现代沙发",
+          "shop_specs": "三人（咖啡色）",
+          "shop_price": 889,
+          "nums": 1,
+          "ischeck": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "reason": "成功的返回",
+  "stat": "1",
+  "category": [
+    {
+      "id": 1,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei1.png",
+      "cg_text": "沙发"
+    },
+    {
+      "id": 2,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei2.png",
+      "cg_text": "床"
+    },
+    {
+      "id": 3,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei3.png",
+      "cg_text": "桌类"
+    },
+    {
+      "id": 4,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei4.png",
+      "cg_text": "几类"
+    },
+    {
+      "id": 5,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei5.png",
+      "cg_text": "椅凳"
+    },
+    {
+      "id": 6,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei6.png",
+      "cg_text": "柜类"
+    },
+    {
+      "id": 7,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei7.png",
+      "cg_text": "架类"
+    },
+    {
+      "id": 8,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei8.png",
+      "cg_text": "床垫"
+    },
+    {
+      "id": 9,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei9.png",
+      "cg_text": "灯具"
+    },
+    {
+      "id": 10,
+      "cg_img": "http://127.0.0.1:3100/images/pinlei10.png",
+      "cg_text": "家居"
+    }
+  ],
+  "touch": [
+    {
+      "id": 1,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei11.png",
+      "touch_text": "北欧"
+    },
+    {
+      "id": 2,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei12.png",
+      "touch_text": "现代"
+    },
+    {
+      "id": 3,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei13.png",
+      "touch_text": "简美"
+    },
+    {
+      "id": 4,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei14.png",
+      "touch_text": "新中式"
+    },
+    {
+      "id": 5,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei15.png",
+      "touch_text": "日式"
+    },
+    {
+      "id": 6,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei16.png",
+      "touch_text": "古典欧美"
+    },
+    {
+      "id": 7,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei17.png",
+      "touch_text": "美式田园"
+    },
+    {
+      "id": 8,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei18.png",
+      "touch_text": "传统实木"
+    },
+    {
+      "id": 9,
+      "touch_img": "http://127.0.0.1:3100/images/pinlei19.png",
+      "touch_text": "儿童"
+    }
+  ],
+  "space": [
+    {
+      "id": 1,
+      "space_img": "http://127.0.0.1:3100/images/kongjian1.png",
+      "space_text": "北欧"
+    },
+    {
+      "id": 2,
+      "space_img": "http://127.0.0.1:3100/images/kongjian2.png",
+      "space_text": "现代"
+    },
+    {
+      "id": 3,
+      "space_img": "http://127.0.0.1:3100/images/kongjian3.png",
+      "space_text": "简美"
+    },
+    {
+      "id": 4,
+      "space_img": "http://127.0.0.1:3100/images/kongjian4.png",
+      "space_text": "新中式"
+    },
+    {
+      "id": 5,
+      "space_img": "http://127.0.0.1:3100/images/kongjian5.png",
+      "space_text": "日式"
+    },
+    {
+      "id": 6,
+      "space_img": "http://127.0.0.1:3100/images/kongjian6.png",
+      "space_text": "古典欧美"
+    }
+  ]
+}
